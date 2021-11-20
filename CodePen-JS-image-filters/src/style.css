@@ -1,0 +1,34 @@
+h1{
+  font-family: cursive;
+  color:SteelBlue;
+}
+
+body{
+ font-family:arial; 
+ background-color:azure;
+ background-image:
+   url('https://images6.alphacoders.com/103/thumb-1920-1038319.jpg')
+}
+canvas{
+  width: 250px;
+  margin:10px;
+  border: 1px solid black;
+}
+input {
+  font-size:14pt;
+  margin: 5px
+}
+
+.button{
+  margin: 10px;
+}
+
+div{
+  width:500px;
+  height:450px;
+  text-align:center;
+  background-image:
+    url('https://wallpapers.com/images/high/wolf-howling-at-moon-phone-17hm2si20ugn9e5k.jpg');
+  margin:auto;
+  
+}
